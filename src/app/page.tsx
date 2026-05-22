@@ -62,7 +62,6 @@ export default function Home() {
     `,
   }}
 />
-</script>
         <Marquee />
         <HowItWorks />
         <WhyUs />
